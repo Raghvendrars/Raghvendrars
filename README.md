@@ -1,12 +1,10 @@
 ### Hi there, I'm Raghvendra 👋
 
-[![Website](https://img.shields.io/website?label=Raghav_Singh&style=for-the-badge)](https://raghvendrars.github.io/Raghav/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+## I'm a Student and Developer!!
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 A passionate frontend developer from India..
+- 🌱 I’m currently learning ReactJs NodeJS..
+- 💬 Ask me about ReactJS,CSS3,Bootstrap5, HTML5,PHP MySQL..
+- 📫 How to reach me Raghav26897@gmail.com
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Sorry 
