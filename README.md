@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanujdey7" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanujdey7/tanujdey7/master/icon/twitter.svg" alt="tanujdey7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanujdey7" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanujdey7/tanujdey7/master/icon/linkedin.svg" alt="tanujdey7" height="30" width="40" /></a>
+<a href="https://twitter.com/vishen_raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanujdey7/tanujdey7/master/icon/twitter.svg" alt="tanujdey7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raghvendra-singh-a14109154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanujdey7/tanujdey7/master/icon/linkedin.svg" alt="tanujdey7" height="30" width="40" /></a>
 <a href="https://instagram.com/__raghvendra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanujdey7/tanujdey7/master/icon/instagram.svg" alt="tanujdey7" height="30" width="40" /></a>
 
 
