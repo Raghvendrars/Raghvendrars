@@ -1,6 +1,6 @@
 ### Hi there, I'm Raghvendra 👋
 
-## I'm a Student and Developer!!
+## I'm a Developer!!
 
 - 🔭 A passionate Full-Stack developer from India..
 - 🌱 I’m currently learning DevOps..
