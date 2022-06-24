@@ -21,6 +21,4 @@
 <a href="https://nodejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="tailwind" width="40" height="40"/> </a>
  <a href="https://mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="tailwind" width="40" height="40"/> </a>
 </p> 
-<p align="center">&nbsp;<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghvendrars&show_icons=true&locale=en&layout=compact" alt="Raghvendrars"/>--> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raghvendrars&show_icons=true&locale=en" alt="Raghvendrars"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raghvendrars&" alt="Raghvendrars" /></p>
- 
+<p align="center">&nbsp;<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raghvendrars&show_icons=true&locale=en&layout=compact" alt="Raghvendrars"/>--> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raghvendrars&show_icons=true&locale=en" alt="Raghvendrars"/> 
